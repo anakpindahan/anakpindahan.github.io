@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Halo, saya Akeyla Pradia Naufal. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Saya punya dua tangan dan dua kaki LOL.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Jika Anda ingin bercakap dengan saya, bisa hubungi melalui email [akeylanaufal@gmail.com](mailto:akeylanaufal@gmail.com)
