@@ -19,7 +19,18 @@ Semester pertama di jurusan dijalani secara daring. Sebenarnya, selain bentuk pe
   Selain itu, juga ada tugas membuat makalah yang membahas penerapan matematika diskrit di kehidupan. Setiap mahasiswa bebas memilih topik apapun di matematika diskrit. Ini juga tidak terlalu susah. Sebagai bukti, salah satu temanku menyelesaikan makalahnya hanya dalam waktu 12 jam.
   
   * Aljabar Linear & Aljabar Geometri (Algeo)
+  
+  Sesuai dengan namanya, matkul ini terbagi menjadi dua bagian: aljabar linear di paruh semester pertama dan aljabar geometri di paruh semester kedua. Aljabar linear sih intinya matriks, ruang vektor, dan sistem persamaan. Sedangkan aljabar geometri membahas kuaternion, bivektor, trivektor, dan pseudoskalar.
+  
+  **Kesulitan Materi**
+  7/10. Aljabar linear mungkin ada beberapa bagiannya yang sudah ditemui di SMA seperti determinan dan sifatnya serta penyelesaian SPL dan sifatnya. Namun, masih ada materi yang baru dipelajari di matkul ini seperti ruang vektor, diagonalisasi, dan null, rank, serta dimensi. Menurutku, teori di aljabar linear ini "seperti trivial tetapi cukup membingungkan". Beberapa bagian dapat dengan mudah tertukar dengan bagian lainnya.  
+  Aljabar geometri lebih absurd lagi. Kalau di SMA, kita temui dua macam perkalian di vektor: cross dan dot, di aljabar geometri kita akan temui setidaknya empat macam. Dan tidak hanya bermain dengan vektor, kita juga akan bermain dengan kuaternion, bivektor, trivektor, dan pseudoskalar. Banyak rumus baru yang dapat ditemui. Dan bisa dikatakan sebenarnya semuanya bertumpu ke pemahaman perumuman vektor menjadi bivektor dan trivektor.
+  
+  **Penilaian**
+  8/10. Ini adalah matkul yang memiliki dua tugas besar (tubes). Di tahunku, salah satu tubes membahas implementasi operasi-operasi matriks pada program Java. Kesusahan utamanya justru dari bahasa Java itu sendiri yang tidak diajarkan di kelas tetapi dipakai di tubes. Meskipun begitu, tugas yang diberikan sudah pernah dibahas juga teorinya di kelas. Sehingga, hanya perlu implementasi ke Java saja. Tubes kedua biasanya lebih susah. Dari yang kuperhatikan, tiap tahunnya tubes kedua ini selalu berbeda dan membahas penerapan aljabar linear di salah satu bidang komputasi. Bidang komputasi ini ditentukan dosen dan selalu berbeda tiap tahunnya. Pada tahunku, kami membuat mesin pencari (search engine) sederhana. Tahun sebelumnya, tubesnya adalah membuat aplikasi pengenalan wajah. Bisa dibilang, tubes ini lumayan menantang bagi yang belum akrab di bidang tersebut. Untuk kuis dan ujian, mirip seperti matdis, ada teori dan problem-solving yang materinya cukup merata tingkat kesulitannya.
+  
   * Teori Bahasa Formal dan Otomata (TBFO)
+  TBFO membahas 
   * Algoritma dan Struktur Data (Alstrukdat)
   * Logika Komputasional (Logkom)
   * Organisasi dan Arsitektur Komputer (Orkom)
